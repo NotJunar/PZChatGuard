@@ -1,0 +1,8 @@
+# words.yml
+words:
+  - word: "fuck"
+    customrules:
+      - "*fuck*"
+      - "f*u*c*k*"
+      - "f*[u,v,*]*[c,*]*k"
+    replacement: "love"

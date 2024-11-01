@@ -1,0 +1,4 @@
+# config.yml
+punishment_mode: "REPLACE"  # Options: REPLACE, COMMAND, ECONOMY
+custom_command: "kick %player% You are not allowed to say that!"
+economy_cost: 100  # Cost in the economy balance if using ECONOMY mode

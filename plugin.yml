@@ -1,0 +1,10 @@
+name: PZChatGuard
+version: 1.0
+main: PZChatGuard
+api-version: 1.8
+depend: [Vault]
+commands:
+  pzchatguard:
+    description: Main command for PZ ChatGuard
+    usage: /<command> [reload]
+    aliases: [pzcg]
